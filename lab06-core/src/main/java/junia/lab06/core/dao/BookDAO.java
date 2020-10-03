@@ -1,8 +1,8 @@
-package yncrea.lab06.core.dao;
+package junia.lab06.core.dao;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
-import yncrea.lab06.core.entity.Book;
+import junia.lab06.core.entity.Book;
 
 //TODO complete this class
 public interface BookDAO  {

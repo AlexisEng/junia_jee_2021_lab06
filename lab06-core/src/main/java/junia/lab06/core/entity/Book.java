@@ -1,4 +1,4 @@
-package yncrea.lab06.core.entity;
+package junia.lab06.core.entity;
 
 import javax.persistence.JoinColumn;
 import javax.persistence.JoinTable;

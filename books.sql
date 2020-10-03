@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `yncrea_lab06` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `yncrea_lab06`;
+CREATE DATABASE  IF NOT EXISTS `junia_lab06` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `junia_lab06`;
 -- MySQL dump 10.13  Distrib 5.6.17, for Win32 (x86)
 --
--- Host: localhost    Database: yncrea_lab06
+-- Host: localhost    Database: junia_lab06
 -- ------------------------------------------------------
 -- Server version	5.6.20
 
@@ -192,7 +192,7 @@ INSERT INTO `tag` VALUES (1,'android'),(2,'angular'),(3,'ansible'),(4,'api'),(5,
 UNLOCK TABLES;
 
 --
--- Dumping events for database 'yncrea_lab06'
+-- Dumping events for database 'junia_lab06'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

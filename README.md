@@ -10,7 +10,7 @@ A few classes and files are provided to help you. A SQL dump is also available i
 
 Look a the hints inside the code
 
-Create a new DB schema name `yncrea_lab06` and import the provided dump.
+Create a new DB schema name `junia_lab06` and import the provided dump.
 
 # Main concepts
 * There is a GUI that shows a Library

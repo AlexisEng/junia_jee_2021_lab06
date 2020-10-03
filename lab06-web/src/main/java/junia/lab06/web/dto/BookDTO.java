@@ -1,6 +1,6 @@
-package yncrea.lab06.web.dto;
+package junia.lab06.web.dto;
 
-import yncrea.lab06.core.entity.Review;
+import junia.lab06.core.entity.Review;
 
 import java.util.List;
 import java.util.Set;

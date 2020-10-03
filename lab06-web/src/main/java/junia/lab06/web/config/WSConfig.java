@@ -1,4 +1,4 @@
-package yncrea.lab06.web.config;
+package junia.lab06.web.config;
 
 import com.fasterxml.jackson.jaxrs.json.JacksonJsonProvider;
 import org.apache.cxf.Bus;
@@ -8,14 +8,14 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;
-import yncrea.lab06.web.controller.RestController;
+import junia.lab06.web.controller.RestController;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 @Configuration
-@ComponentScan(basePackages = "yncrea.lab06.web.controller")
+@ComponentScan(basePackages = "junia.lab06.web.controller")
 @ImportResource({"classpath:META-INF/cxf/cxf.xml"})
 public class WSConfig {
 

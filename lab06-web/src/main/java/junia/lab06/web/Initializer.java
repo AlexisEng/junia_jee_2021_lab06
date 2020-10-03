@@ -1,4 +1,4 @@
-package yncrea.lab06.web;
+package junia.lab06.web;
 
 import org.apache.cxf.transport.servlet.CXFServlet;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
